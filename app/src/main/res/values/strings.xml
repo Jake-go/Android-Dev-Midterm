@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Midterm Project 6 by Jacob Golle</string>
+    <string name="myPets">My Pets</string>
+    <string name="questionOne">1. Do you have pets?</string>
+    <string name="questionTwo">2. Which pets do you have?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="bird">Bird</string>
+    <string name="lizard">Lizard</string>
+    <string name="has_pets">Yes, I have Pets</string>
+    <string name="no_pets">I do not have Pets</string>
+    <string name="thereAre">There are</string>
+    <string name="aboutButtonText">About</string>
+
+    <!--About Activity Strings-->
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="aboutTitle">About This Project</string>
+    <string name="aboutParagraph">This project was created by Jacob Golle on March 6, 2023 using Kotlin. </string>
+    <string name="exit">Exit</string>
+</resources>
